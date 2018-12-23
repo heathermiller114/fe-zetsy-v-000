@@ -24,7 +24,7 @@ body {
   color: rgb(134, 157, 149);
 }
 
-img {
+#picture {
    padding:5px;
    border:5px solid rgb(134, 157, 149);
    background-color:rgb(134, 157, 149);
