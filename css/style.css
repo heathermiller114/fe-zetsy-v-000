@@ -20,6 +20,6 @@ body {
 /* Write all remaining styles here */
 
 .wrapper h1 {
-  font: normal 2em 'Libre Baskerville';
+  font: normal 2em 'Libre Baskerville', serif;
   color: rgb(134, 157, 149);
 }
