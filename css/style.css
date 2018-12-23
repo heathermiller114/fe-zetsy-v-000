@@ -20,6 +20,6 @@ body {
 /* Write all remaining styles here */
 
 .wrapper h1 {
-  font: normal ;
+  font: normal 2em ;
   color: rgb(134, 157, 149);
 }
