@@ -23,3 +23,9 @@ body {
   font: bold 5em 'Libre Baskerville', serif;
   color: rgb(134, 157, 149);
 }
+
+img {
+   padding:5px;
+   border:5px solid rgb(134, 157, 149);
+   background-color:rgb(134, 157, 149);
+}
